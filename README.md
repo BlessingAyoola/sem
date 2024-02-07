@@ -7,3 +7,4 @@ Hi there!My name is Blessing.
 
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/asteyvenBlessingAyoola/sem/main.yml?branch=master)
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/BlessingAyoola/sem/main.yml?branch=master)
+[![LICENSE](https://img.shields.io/github/license/<github-username>/sem.svg?style=flat-square)](https://github.com/<github-BlessingAyoola>/sem/blob/master/LICENSE)
