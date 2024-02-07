@@ -10,7 +10,6 @@ Hi there!My name is Blessing.
 <<<<<<< HEAD
 [![LICENSE](https://img.shields.io/github/license/<github-username>/sem.svg?style=flat-square)](https://github.com/<github->/sem/blob/master/LICENSE)
 =======
-[![LICENSE](https://img.shields.io/github/license/<github-BlessingAyoola>/sem.svg?style=flat-square)](https://github.com/<github-BlessingAyoola>/sem/blob/master/LICENSE)
 
 
-[![LICENSE](https://img.shields.io/github/license/<github-BlessingAyoola>/sem.svg?style=flat-square)](https://github.com/<github-BlessingAyoola>/sem/blob/master/LICENSE)
+
