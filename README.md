@@ -7,6 +7,8 @@ Hi there!My name is Blessing.
 
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/asteyvenBlessingAyoola/sem/main.yml?branch=master)
 
+![GitHub workflow](https://github.com/BlessingAyoola/sem/actions/workflows/main.yml/badge.svg)
+
 ![GitHub License](https://img.shields.io/github/license/Build/passing)
 
 ![Static Badge](https://img.shields.io/badge/Build%20passing-green?style=flat&logoColor=black&labelColor=black&color=green)
