@@ -7,4 +7,10 @@ Hi there!My name is Blessing.
 
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/asteyvenBlessingAyoola/sem/main.yml?branch=master)
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/BlessingAyoola/sem/main.yml?branch=master)
-[![LICENSE](https://img.shields.io/github/license/<github-username>/sem.svg?style=flat-square)](https://github.com/<github-BlessingAyoola>/sem/blob/master/LICENSE)
+<<<<<<< HEAD
+[![LICENSE](https://img.shields.io/github/license/<github-username>/sem.svg?style=flat-square)](https://github.com/<github->/sem/blob/master/LICENSE)
+=======
+[![LICENSE](https://img.shields.io/github/license/<github-BlessingAyoola>/sem.svg?style=flat-square)](https://github.com/<github-BlessingAyoola>/sem/blob/master/LICENSE)
+
+>>>>>>> 3d02d1d70280dd3af25386677661742db45b22d5
+[![LICENSE](https://img.shields.io/github/license/<github-BlessingAyoola>/sem.svg?style=flat-square)](https://github.com/<github-BlessingAyoola>/sem/blob/master/LICENSE)
