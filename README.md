@@ -7,6 +7,7 @@ Hi there!My name is Blessing.
 
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/asteyvenBlessingAyoola/sem/main.yml?branch=master)
 
+![GitHub License](https://img.shields.io/github/license/Build/passing)
 
 
 
