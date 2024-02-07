@@ -12,5 +12,5 @@ Hi there!My name is Blessing.
 =======
 [![LICENSE](https://img.shields.io/github/license/<github-BlessingAyoola>/sem.svg?style=flat-square)](https://github.com/<github-BlessingAyoola>/sem/blob/master/LICENSE)
 
->>>>>>> 3d02d1d70280dd3af25386677661742db45b22d5
+
 [![LICENSE](https://img.shields.io/github/license/<github-BlessingAyoola>/sem.svg?style=flat-square)](https://github.com/<github-BlessingAyoola>/sem/blob/master/LICENSE)
