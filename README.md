@@ -11,6 +11,7 @@ Hi there!My name is Blessing.
 
 ![Static Badge](https://img.shields.io/badge/Build%20passing-green?style=flat&logoColor=black&labelColor=black&color=green)
 
+https://img.shields.io/badge/Licence%20Apache-2.0-green?style=flat&logoColor=black&labelColor=black&color=green
 
 
 
