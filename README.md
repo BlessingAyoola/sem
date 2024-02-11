@@ -22,6 +22,7 @@ Hi there!My name is Blessing.
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/:BlessingAyoola/:sem/:main.yml)
 
 
+![GitHub Actions Workflow Status(branch)](https://img.shields.io/github/actions/workflow/status/BlessingAyoola/sem/main.yml?branch=master)
 
 
 
