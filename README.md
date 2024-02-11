@@ -17,6 +17,11 @@ Hi there!My name is Blessing.
 [![Releases](https://img.shields.io/github/release/<github-blessingayoola>/sem/all.svg?style=flat-square)](https://github.com/<github-blessingayoola>/sem/releases)
 
 
+# Software Engineering Methods
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/<blessingayoola>/<sem>/<action main>.yml?branch=<branch>)
+
+
+
 
 
 
