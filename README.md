@@ -6,7 +6,7 @@ Hi there!My name is Blessing.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlessingAyoola)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![GitHub workflow(branch)](https://github.com/BlessingAyoola/sem/actions/workflows/main.yml/badge.svg)
+![GitHub workflow(master)](https://github.com/BlessingAyoola/sem/actions/workflows/main.yml/badge.svg)
 
 ![GitHub License](https://img.shields.io/github/license/Build/passing)
 
