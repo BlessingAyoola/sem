@@ -15,7 +15,12 @@ Hi there!My name is Blessing.
 
 ![Static Badge](https://img.shields.io/badge/Licence%20Apache-2.0-green?style=flat&logoColor=black&labelColor=black&color=green)
 
+
 ![.github/workflows/main.yml.](https://github.com/BlessingAyoola/sem/actions/workflows/main.yml/badge.svg)
+
+
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/:BlessingAyoola/:sem/:main.yml)
+
 
 
 
