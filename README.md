@@ -18,7 +18,7 @@ Hi there!My name is Blessing.
 
 
 # Software Engineering Methods
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/<blessingayoola>/<sem>/<main>.yml?branch=<branch>)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/<blessingayoola>/<sem>/<action>main.yml?branch=<branch>)
 
 
 
