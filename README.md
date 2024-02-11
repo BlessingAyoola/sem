@@ -17,8 +17,7 @@ Hi there!My name is Blessing.
 
 ![.github/workflows/main.yml.](https://github.com/BlessingAyoola/sem/actions/workflows/main.yml/badge.svg)
 
-
-[![Releases](https://img.shields.io/github/release/<BlessingAyoola>/<sem>/all.svg?style=flat-square)](https://github.com/BlessingAyoola>/<sem>/releases)
+![Releases](https://img.shields.io/github/release/<BlessingAyoola>/<sem>/all.svg?style=flat-square)](https://github.com/<blessingayoola>/<sem>/releases)
 
 
 
